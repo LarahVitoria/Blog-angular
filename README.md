@@ -1,38 +1,18 @@
-# Meu Projeto
+# Angular Blog
 
-Para o meu projeto da DIO decidi incluir as seguintes funcionalidades:
-- [x] Popular os conteúdos do componente big-card com fakeData
-- [x] Popular os conteúdos do componente small-card com fakeData
-- [x] Utilizar ngFor para preencher os dados da lista de artigos
-- [x] Implementar estilo e botão no menu para DarkTheme/LightTheme
+Bem-vindo ao `angular-blog`! Este projeto foi desenvolvido como uma jornada para aprender sobre Angular, um dos frameworks front-end mais populares. Ao longo deste projeto, explorei suas diversas bibliotecas e módulos.
+
+## O que eu aprendi e utilizei:
+- **Angular Core e Modules**: A base de qualquer aplicativo Angular, aprendi sobre componentes, diretivas e os principais conceitos que o Angular oferece.
+- **Angular Router**: Utilizei o sistema de rotas do Angular para garantir uma navegação suave entre as páginas do blog.
+- **Dark Mode**: Com a ajuda do pacote `angular-dark-mode`, implementei uma alternância de modo escuro para aprimorar a visualização em ambientes de baixa luz.
+
+## Dependências:
+
+Além dos módulos básicos do Angular, algumas das principais dependências incluem:
+- `angular-dark-mode` para suporte ao modo escuro.
+- `rxjs` para programação reativa.
+- `zone.js` para detecção de mudanças.
 
 
-
-
-## AngularInstructions
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
-
-### Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-### Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-### Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-### Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-### Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-### Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Fique à vontade para explorar, contribuir ou usar como referência para seus próprios projetos. Espero que você encontre tanto valor neste projeto quanto eu encontrei ao construí-lo!
